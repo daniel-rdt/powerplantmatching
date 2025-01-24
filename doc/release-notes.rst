@@ -4,6 +4,9 @@ Release Notes
 .. Upcoming Version
 .. ----------------
 
+* Bugfix: Patch for a bug in matching caused by faulty names for BNA hydro powerplants in the OPSD_EU input dataset.
+
+
 
 Version 0.6.0 (18.09.2024)
 ---------------------------
